@@ -148,13 +148,14 @@ h2 {
 
 /* Media Queries */
 @media (max-width: 900px) {
+  #title {
+      text-align: center;
+    }
     .img-top {
       position: static;
       transform: rotate(0deg);
     }
-    #title {
-      text-align: center;
-    }
+    
     /* .img-top {
       transform: translate(0,0);
     } */
