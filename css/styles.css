@@ -153,7 +153,7 @@ h2 {
     }
     .img-top {
       position: static;
-      transform: rotate(0);
+      transform: rotate(0deg);
     }
     
     /* .img-top {
