@@ -1,2 +1,1 @@
-# TinDog2
-The modified version
+TinDog Starting Files
