@@ -27,11 +27,7 @@ h2 {
 
 /* Title Image */
 /* Being punished by using some unpopular properties */
-.img-top {
-  width: 60%;
-  margin-top: 100px;
-  transform: rotate(27deg);
-}
+
 
 /* Navigation Style */
 .navbar {
@@ -141,10 +137,14 @@ h2 {
   border-radius: 10px;
 }
 .img-top {
+  width: 60%;
+  margin-top: 100px;
+  transform: rotate(27deg);
   position: absolute;
   z-index: 1;
   right: 30%;
 }
+
 
 /* Media Queries */
 @media (max-width: 900px) {
