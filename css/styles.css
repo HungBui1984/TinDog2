@@ -147,7 +147,7 @@ h2 {
 
 
 /* Media Queries */
-@media (max-width: 900px) {
+@media (max-width: 1028px) {
   #title {
       text-align: center;
     }
